@@ -1,0 +1,7 @@
+c:\users\anjani.burra\source\repos\wcf\wcf\bin\wcf.dll.config
+c:\users\anjani.burra\source\repos\wcf\wcf\bin\wcf.dll
+c:\users\anjani.burra\source\repos\wcf\wcf\bin\wcf.pdb
+c:\users\anjani.burra\source\repos\wcf\wcf\obj\Debug\wcf.csprojAssemblyReference.cache
+c:\users\anjani.burra\source\repos\wcf\wcf\obj\Debug\wcf.csproj.CoreCompileInputs.cache
+c:\users\anjani.burra\source\repos\wcf\wcf\obj\Debug\wcf.dll
+c:\users\anjani.burra\source\repos\wcf\wcf\obj\Debug\wcf.pdb
